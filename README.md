@@ -1,9 +1,10 @@
 Hi! 👋 
 
-I'm a Computer Science graduate from the Federal University of Paraná (UFPR) and I've been working in computer graphics for almost 30 years. During this journey, I've worn many hats—3D Generalist, Technical Director, Pipeline Specialist, and VFX Supervisor—and I still enjoy learning something new every day. I spend most of my time with Maya and Houdini, lighting and rendering with the major render engines in the industry, and whenever I get the chance, I automate things with Python.
+I'm a Computer Science graduate from the Federal University of Paraná (UFPR), currently living in São Paulo, Brazil. I've been working in computer graphics for almost 30 years, combining technical problem-solving with visual storytelling.
 
-These days, my main interest is developing VFX pipelines with Python, building tools and workflows that help artists work more efficiently.
+During this journey, I've worn many hats—3D Generalist, Technical Director, Pipeline Specialist, and VFX Supervisor. I spend most of my time with Maya and Houdini, lighting and rendering with the major render engines in the industry, and I enjoy automating repetitive tasks with Python whenever I get the chance.
 
+These days, one of my main interests is building VFX pipeline tools with Python, integrating production management systems like Flow with applications such as Maya and Houdini to simplify production workflows.
 
 <!--
 **GustavoBraga001/GustavoBraga001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
